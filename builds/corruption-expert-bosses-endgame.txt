@@ -1,0 +1,62 @@
+<div id="title">
+	<div id="tooltip">
+		<div id="copy-button" onclick="copyHotlink()">
+			<span id="tooltip-information">
+				Click me to copy a link to this build directly!
+			</span>
+		</div>
+	</div>
+	<a href="https://terraria.gamepedia.com/Bosses" target="_blank">
+		Endgame Bosses
+	</a>
+</div>
+
+<div id="boss-information">
+
+	<div class="boss-card">
+		<div class="title">
+			<a href="https://terraria.gamepedia.com/Eater_of_Worlds" target="_blank">
+				Eater of Worlds
+			</a>
+		</div>
+		<div class="information">
+			<div class="icon">
+				<a href="https://terraria.gamepedia.com/Eater_of_Worlds" target="_blank">
+					<div id="tooltip" class="top">
+						<img src="images/events/Eater%20of%20Worlds.png">
+						<span id="tooltip-information">
+							Eater of Worlds Minimap Icon
+						</span>
+					</div>
+				</a>
+			</div>
+			<div class="extra-information">
+				10,479 Health Points
+				<br/>
+				<a href="https://terraria.gamepedia.com/Eater_of_Worlds" target="_blank">
+					<div id="tooltip" class="top">
+						<img src="images/enemies/Eater%20of%20Worlds.png">
+						<span id="tooltip-information">
+							The Eater of Worlds is a pre-Skeletron, corruption-themed worm boss.
+						</span>
+					</div>
+				</a>
+			</div>
+			<div class="boss-summoning">
+				<span class="event">
+					Screams echo around you...
+				</span>
+				<br/>
+				<a href="https://terraria.gamepedia.com/Worm_Food" target="_blank">
+					<div id="tooltip" class="top item-label">
+						<img src="images/items/Worm%20Food.png">
+						<span id="tooltip-information">
+							Worm Food
+						</span>
+					</div>
+				</a>
+			</div>
+		</div>
+	</div>
+
+</div>

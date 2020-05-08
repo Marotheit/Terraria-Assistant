@@ -1,0 +1,209 @@
+<div id="title">
+	<div id="tooltip">
+		<div id="copy-button" onclick="copyHotlink()">
+			<span id="tooltip-information">Click me to copy a link to this build directly!</span>
+		</div>
+	</div>
+	<a href="https://terraria.gamepedia.com/Guide:Class_setups#Multiplayer" target="_blank">Endgame Crimson Knight Class Build</a>
+</div>
+<div id="weapons">
+<h1>Weapons</h1>
+	<a href="https://terraria.gamepedia.com/Vampire_Knives" target="_blank">
+		<div id="tooltip" class="tooltip-with-image">
+			<img src="images/items/Vampire%20Knives.png">
+			<div id="tooltip-information">
+				<img src="images/items/Vampire%20Knives.png">
+					<div id="tooltip-text">
+						<i>Rapidly throw life stealing daggers.</i><br/><br/>Best Modifier is <b>Godly</b> or <b>Demonic</b>.<br/><br/>Contained inside the Crimson Chest within the Dungeon.
+					</div>
+			</div>
+		</div>
+		Vampire Knives
+	</a>
+	<a href="https://terraria.gamepedia.com/Terrarian" target="_blank">
+		<div id="tooltip" class="tooltip-with-image">
+			<img src="images/items/Terrarian.png">
+			<div id="tooltip-information">
+				<img src="images/items/Terrarian.png">
+					<div id="tooltip-text">
+						Best Modifier is <b>Godly</b>, or <b>Ruthless</b> for higher raw damage.<br/><br/>Sometimes dropped by the Moon Lord (1/9 chance, 11.11%).
+					</div>
+			</div>
+		</div>
+		Terrarian
+	</a>
+</div>
+<div id="armor"><h1>Armor</h1>
+	<a href="https://terraria.gamepedia.com/Solar_Flare_armor" target="_blank">
+		<div id="tooltip">
+			<img src="images/armor%20sets/Solar%20Flare%20armor.png">
+			<span id="tooltip-information">
+					<div id="tooltip-text">
+						Provides 78 defense.<br/><br/><i>Solar shields generate over time protecting you,<br/>consume the shield power to dash, damaging enemies.</i><br/><br/>Crafted at the Ancient Manipulator for 45 Solar Fragments and 36 Luminite Bars.
+					</div>
+			</span>
+		</div>
+		Solar Flare Armor
+	</a>
+</div>
+<div id="accessories"><h1>Accessories</h1>
+	<a href="https://terraria.gamepedia.com/Celestial_Shell" target="_blank">
+		<div id="tooltip">
+			<img src="images/items/Celestial%20Shell.png">
+			<span id="tooltip-information">
+				<div id="tooltip-text">
+					<i>Enemies are more likely to target you.</i><br/><br/>Best Modifier is <b>Warding</b>.<br/><br/>Sometimes dropped by Crimson Mimics (1/5 chance, 20%).
+				</div>
+			</span>
+		</div>
+		Celestial Shell
+	</a>
+	<a href="https://terraria.gamepedia.com/Flesh_Knuckles" target="_blank">
+		<div id="tooltip">
+			<img src="images/items/Flesh%20Knuckles.png">
+			<span id="tooltip-information">
+				<div id="tooltip-text">
+					<i>Enemies are more likely to target you.</i><br/><br/>Best Modifier is <b>Warding</b>.<br/><br/>Sometimes dropped by Crimson Mimics (1/5 chance, 20%).
+				</div>
+			</span>
+		</div>
+		Flesh Knuckles
+	</a>
+	<a href="https://terraria.gamepedia.com/Fire_Gauntlet" target="_blank">
+		<div id="tooltip">
+			<img src="images/items/Fire%20Gauntlet.png">
+			<span id="tooltip-information">
+				<img src="images/items/Fire%20Gauntlet.png">
+					<div id="tooltip-text">
+						9.09% chance to be contained in a surface chest.<br/>2.22% chance to be contained in a Wooden Crate.<br/><br/>Provides +5% movement speed.
+					</div>
+			</span>
+		</div>
+		Fire Gauntlet
+	</a>
+	<a href="https://terraria.gamepedia.com/Solar_Wings" target="_blank">
+		<div id="tooltip">
+			<img src="images/items/Solar%20Wings.png">
+			<span id="tooltip-information">
+				<div id="tooltip-text">
+					Best Modifier is <b>Godly</b>, or <b>Ruthless</b> for higher raw damage.<br/><br/>Best Modifier is <b>Warding</b>.<br/><br/>Crafted at the Ancient Manipulator for 14 Solar Fragments and 10 Luminite Bars.
+				</div>
+			</span>
+		</div>
+		Solar Wings
+	</a>
+	<a href="https://terraria.gamepedia.com/Warrior_Emblem target="_blank">
+		<div id="tooltip">
+			<img src="images/items/Warrior%20Emblem.png">
+			<span id="tooltip-information">
+				<img src="images/items/Warrior%20Emblem.png">
+					<div id="tooltip-text">
+						9.09% chance to be contained in a surface chest.<br/>2.22% chance to be contained in a Wooden Crate.<br/><br/>Provides +5% movement speed.
+					</div>
+			</span>
+		</div>
+		Warrior Emblem
+	</a>
+	<div id="desired-modifier">
+		<div id="tooltip" class="top">
+			<span style="font-size: 14px; font-weight: bold;">
+				Menacing
+			</span>
+			<div id="tooltip-information">
+				+4% damage.
+			</div>
+		</div>
+	</div>
+</div>
+<div id="buffs"><h1>Buffs</h1>
+	<a href="https://terraria.gamepedia.com/Endurance_Potion" target="_blank">
+		<div id="tooltip">
+			<img src="images/buffs/Endurance.png">
+			<span id="tooltip-information">
+				<img src="images/consumables/Endurance%20Potion.png">
+					<div id="tooltip-text">
+						<i>Reduces all damage by 10%.</i><br/><br/><b>Duration:</b> 4 minutes<br/><br/><b>Ingredients:</b><br/>Bottled Water<br/>Armored Cavefish<br/>Blinkroot
+					</div>
+			</span>
+		</div>
+		Endurance
+	</a>
+	<a href="https://terraria.gamepedia.com/Heartreach_Potion" target="_blank">
+		<div id="tooltip">
+			<img src="images/buffs/Heartreach.png">
+			<span id="tooltip-information">
+				<img src="images/consumables/Heartreach%20Potion.png">
+					<div id="tooltip-text">
+						<i>Increases heart pickup range.</i><br/><br/><b>Duration:</b> 8 minutes<br/><br/><b>Ingredients:</b><br/>Bottled Water<br/>Crimson Tigerfish<br/>Daybloom
+					</div>
+			</span>
+		</div>
+		Heartreach
+	</a>
+	<a href="https://terraria.gamepedia.com/Ironskin_Potion" target="_blank">
+		<div id="tooltip">
+			<img src="images/buffs/Ironskin.png">
+			<span id="tooltip-information">
+				<img src="images/consumables/Ironskin%20Potion.png">
+					<div id="tooltip-text">
+						<i>Increases defense by 8.</i><br/><br/><b>Duration:</b> 5 minutes<br/><br/><b>Ingredients:</b><br/>Bottled Water<br/>Lead (or Iron) Ore<br/>Daybloom
+					</div>
+			</span>
+		</div>
+		Ironskin
+	</a>
+	<a href="https://terraria.gamepedia.com/Lifeforce_Potion" target="_blank">
+		<div id="tooltip">
+			<img src="images/buffs/Lifeforce.png">
+			<span id="tooltip-information">
+				<img src="images/consumables/Lifeforce%20Potion.png">
+					<div id="tooltip-text">
+						<i>Increases max life by 20%.</i><br/><br/><b>Duration:</b> 5 minutes<br/><br/><b>Ingredients:</b><br/>Bottled Water<br/>Prismite<br/>Moonglow<br/>Shiverthown<br/>Waterleaf
+					</div>
+			</span>
+		</div>
+		Lifeforce
+	</a>
+	<a href="https://terraria.gamepedia.com/Rage_Potion" target="_blank">
+		<div id="tooltip">
+			<img src="images/buffs/Rage.png">
+			<span id="tooltip-information">
+				<img src="images/consumables/Rage%20Potion.png">
+					<div id="tooltip-text">
+						<i>Increases critical strike chance by 10%.</i><br/><br/><b>Duration:</b> 4 minutes<br/><br/><b>Ingredients:</b><br/>Bottled Water<br/>Hemopiranha<br/>Deathweed
+					</div>
+			</span>
+		</div>
+		Rage
+	</a>
+	<a href="https://terraria.gamepedia.com/Regeneration_Potion" target="_blank">
+		<div id="tooltip">
+			<img src="images/buffs/Regeneration.png">
+			<span id="tooltip-information">
+				<img src="images/consumables/Regeneration%20Potion.png">
+					<div id="tooltip-text">
+						<i>Increases life regeneration by 2 health per second.</i><br/><br/><b>Duration:</b> 5 minutes<br/><br/><b>Ingredients:</b><br/>Bottled Water<br/>Mushroom<br/>Daybloom
+					</div>
+			</span>
+		</div>
+		Regeneration
+	</a>
+</div>
+<div id="bosses"><h1>Bosses</h1>
+	<a href="https://terraria.gamepedia.com/Bosses" target="_blank">
+		<div id="tooltip">
+			<img src="images/items/Water%20Bolt.png">
+			<span id="tooltip-information">
+				<img src="images/items/Water%20Bolt.png">
+					<div id="tooltip-text">
+						This item is rare at this level of progression.<br/><br/><b>Water Bolt</b> can sometimes be acquired from the upper levels of the dungeon before defeating Skeletron. It is incredibly powerful this early in the game if you can manage your mana usage.
+					</div>
+			</span>
+		</div>
+		Water Bolt
+	</a>
+</div>
+<div id="notes">
+<h1>Notes</h1>
+	<a href="https://terraria.gamepedia.com/Flesh_Knuckles" target="_blank">Flesh Knuckles</a> is a must in my eyes. You can take <a href="https://terraria.gamepedia.com/Paladin%27s_Shield" target="_blank">Paladins Shield</a> for class fantasy, if you'd like to be a tank in multiplayer. <a href="https://terraria.gamepedia.com/Frozen_Turtle_Shell" target="_blank">Frozen Turtle Shell</a> is something that I really want to incorporate at some point as well. You wouldn't be a tank if you didn't consider <a href="https://terraria.gamepedia.com/Ankh_Shield" target="_blank">Ankh Shield</a> as well.
+</div>
