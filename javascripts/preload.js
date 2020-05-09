@@ -41,7 +41,7 @@ $(document).ready(function(){
 			var $radio = $(elem);
 			if ($radio.val() === preloadProgress){
 				$radio.prop("checked", true);
-				var results = 'https://raw.githubusercontent.com/Marotheit/Terraria-Assistant/master/builds/' + preloadEvil + '-' + preloadDifficulty + '-' + preloadContent + '-' + preloadProgress + '.txt';
+				var results = 'https://cdn.jsdelivr.net/Marotheit/Terraria-Assistant/master/builds/' + preloadEvil + '-' + preloadDifficulty + '-' + preloadContent + '-' + preloadProgress + '.txt';
 				$('#relevant-information').load(results);
 			}
 		});
