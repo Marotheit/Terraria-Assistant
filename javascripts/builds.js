@@ -6,7 +6,7 @@ $(document).ready(function(){
 		var difficulty = document.querySelector('input[name="difficulty"]:checked').value;
 		var content = document.querySelector('input[name="content"]:checked').value;
 		var progress = document.querySelector('input[name="progress"]:checked').value;
-		var results = 'https://raw.githubusercontent.com/Marotheit/Terraria-Assistant/master/builds/' + evil + '-' + difficulty + '-' + content + '-' + progress + '.txt';
+		var results = 'https://cdn.jsdelivr.net/Marotheit/Terraria-Assistant/master/builds/' + evil + '-' + difficulty + '-' + content + '-' + progress + '.txt';
 		
 		jQuery.get(results, function(data){
 			$('#relevant-information').html(data);
