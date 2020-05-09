@@ -11,10 +11,10 @@ function chosenTheme(){
 function toggleTheme(){
 	if(localStorage.getItem('theme') == 'dark'){
 		localStorage.setItem('theme', 'light');
-		document.getElementById('page-style').setAttribute('href', "https://raw.githack.com/Marotheit/Terraria-Assistant-depo/master/stylesheets/light.css");
+		document.getElementById('page-style').setAttribute('href', "https://cdn.jsdelivr.net/Marotheit/Terraria-Assistant/master/stylesheets/light.css");
 	}
 	else{
 		localStorage.setItem('theme', 'dark');
-		document.getElementById('page-style').setAttribute('href', "https://raw.githack.com/Marotheit/Terraria-Assistant-depo/master/stylesheets/dark.css");
+		document.getElementById('page-style').setAttribute('href', "https://cdn.jsdelivr.net/Marotheit/Terraria-Assistant/master/stylesheets/dark.css");
 	}
 }
