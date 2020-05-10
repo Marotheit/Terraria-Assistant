@@ -15,524 +15,6 @@
 
 	<div class="item">
 		<div class="title">
-			<a href="https://terraria.gamepedia.com/Mushroom" target="_blank">
-				Mushroom
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Mushroom" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Mushroom.png">
-						<span id="tooltip-information">
-							Restores 15 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Grasses" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Seedling.png">
-						<span id="tooltip-information">
-							Grows naturally on grass in forests and floating islands.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
-				Bottled Water
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Bottled%20Water.png">
-						<span id="tooltip-information">
-							Restores 20 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Water" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/world/Water.png">
-						<span id="tooltip-information">
-							Must be crafted near a water source.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottle" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Bottle.png">
-						<span id="tooltip-information">
-							Bottle
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Lesser_Healing_Potion" target="_blank">
-				Lesser Healing Potion
-			</a>
-			<div class="amount">
-				x2
-			</div>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Lesser_Healing_Potion" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Lesser%20Healing%20Potion.png">
-						<span id="tooltip-information">
-							Restores 50 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Merchant" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/npcs/icons/Merchant.png">
-						<span id="tooltip-information">
-							Can be purchased from the Merchant for 3 silver.
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Wooden_Crate" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Wooden%20Crate.png">
-						<span id="tooltip-information">
-							5-15 Lesser Healing Potions are commonly contained in Wooden Crates (1/6 chance, 16.66%).
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Crates" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Biome%20Crates.gif">
-						<span id="tooltip-information">
-							5-17 Lesser Healing Potions are commonly contained in Biome Crates (1/4 chance, 25%).
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Bosses#Pre-Hardmode_bosses" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/events/Pre-Bosses.png">
-						<span id="tooltip-information">
-							5 to 15 Lesser Healing Potions will always drop from bosses up to the Wall of Flesh.
-						</span>
-					</div>
-				</a>
-			</div>
-			
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottle" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Bottle.png">
-						<span id="tooltip-information">
-							Bottle
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x2
-				</div>
-				<a href="https://terraria.gamepedia.com/Gel" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Gel.png">
-						<span id="tooltip-information">
-							Gel
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x2
-				</div>
-				<a href="https://terraria.gamepedia.com/Mushroom" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Mushroom.png">
-						<span id="tooltip-information">
-							Mushroom
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Lesser_Mana_Potion" target="_blank">
-				Lesser Mana Potion
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Lesser_Mana_Potion" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Lesser%20Mana%20Potion.png">
-						<span id="tooltip-information">
-							Restores 50 mana.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Merchant" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/npcs/icons/Merchant.png">
-						<span id="tooltip-information">
-							Can be purchased from the Merchant for 1 silver.
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Wooden_Crate" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Wooden%20Crate.png">
-						<span id="tooltip-information">
-							5-15 Lesser Mana Potions are commonly contained in Wooden Crates (1/6 chance, 16.66%).
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Crates" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Biome%20Crates.gif">
-						<span id="tooltip-information">
-							5-17 Lesser Mana Potions are commonly contained in Biome Crates (1/4 chance, 25%).
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Bottled_Honey" target="_blank">
-				Bottled Honey
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Bottled_Honey" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Bottled%20Honey.png">
-						<span id="tooltip-information">
-							Restores 80 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Honey" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/world/Honey.png">
-						<span id="tooltip-information">
-							Must be crafted near a honey source.
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Queen_Bee" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/events/Queen%20Bee.png">
-						<span id="tooltip-information">
-							5 to 15 Bottled Honey will always drop from Queen Bee.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottle" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Bottle.png">
-						<span id="tooltip-information">
-							Bottle
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Eggnog" target="_blank">
-				Eggnog
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Eggnog" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Eggnog.png">
-						<span id="tooltip-information">
-							Restores 80 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Presents" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Present.png">
-						<span id="tooltip-information">
-							Presents are only available during the Christmas event from December 15th through December 31st.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Restoration_Potion" target="_blank">
-				Restoration Potion
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Restoration_Potion" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Restoration%20Potion.png">
-						<span id="tooltip-information">
-							Restores 80 health and 80 mana.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottle" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Bottle.png">
-						<span id="tooltip-information">
-							Bottle
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Pink_Gel" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Pink%20Gel.png">
-						<span id="tooltip-information">
-							Pink Gel
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Mushroom" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Mushroom.png">
-						<span id="tooltip-information">
-							Mushroom
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Healing_Potion" target="_blank">
-				Healing Potion
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Healing_Potion" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Healing%20Potion.png">
-						<span id="tooltip-information">
-							Restores 100 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Iron_Crate" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Iron%20Crate.png">
-						<span id="tooltip-information">
-							5-15 Healing Potions are commonly contained in Iron Crates (1/4 chance, 25%).
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Wall_of_Flesh" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/events/Wall%20of%20Flesh.png">
-						<span id="tooltip-information">
-							5 to 15 Healing Potions will always drop from the Wall of Flesh.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Lesser_Healing_Potion" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Lesser%20Healing%20Potion.png">
-						<span id="tooltip-information">
-							Lesser Healing Potion
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x2
-				</div>
-				<a href="https://terraria.gamepedia.com/Glowing_Mushroom" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Glowing%20Mushroom.png">
-						<span id="tooltip-information">
-							Glowing Mushroom
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Mana_Potion" target="_blank">
-				Mana Potion
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Mana_Potion" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Mana%20Potion.png">
-						<span id="tooltip-information">
-							Restores 100 mana.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Iron_Crate" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Iron%20Crate.png">
-						<span id="tooltip-information">
-							5-15 Mana Potions are commonly contained in Iron Crates (1/4 chance, 25%).
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Lesser_Mana_Potion" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Lesser%20Mana%20Potion.png">
-						<span id="tooltip-information">
-							Lesser Mana Potion
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x2
-				</div>
-				<a href="https://terraria.gamepedia.com/Glowing_Mushroom" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Glowing%20Mushroom.png">
-						<span id="tooltip-information">
-							Glowing Mushroom
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Honeyfin" target="_blank">
-				Honeyfin
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Honeyfin" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/fish/Honeyfin.png">
-						<span id="tooltip-information">
-							Restores 120 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Honey" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/world/Honey.png">
-						<span id="tooltip-information">
-							Can only be obtained by fishing in honey.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
 			<a href="https://terraria.gamepedia.com/Greater_Healing_Potion" target="_blank">
 				Greater Healing Potion
 			</a>
@@ -606,90 +88,6 @@
 				</a>
 				<div class="amount">
 					x3
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Super_Healing_Potion" target="_blank">
-				Super Healing Potion
-			</a>
-			<div class="amount">
-				x4
-			</div>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Super_Healing_Potion" target="_blank">
-					<div id="tooltip" class="top small-width">
-						<img src="images/consumables/Super%20Healing%20Potion.png">
-						<span id="tooltip-information">
-							Restores 200 health.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Greater_Healing_Potion" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Greater%20Healing%20Potion.png">
-						<span id="tooltip-information">
-							Greater Healing Potion
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x4
-				</div>
-				<a href="https://terraria.gamepedia.com/Nebula_Fragment" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Nebula%20Fragment.png">
-						<span id="tooltip-information">
-							Nebula Fragment
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Solar_Fragment" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Solar%20Fragment.png">
-						<span id="tooltip-information">
-							Solar Fragment
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Stardust_Fragment" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Stardust%20Fragment.png">
-						<span id="tooltip-information">
-							Stardust Fragment
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Vortex_Fragment" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Vortex%20Fragment.png">
-						<span id="tooltip-information">
-							Vortex Fragment
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
 				</div>
 			</div>
 		</div>
@@ -846,215 +244,6 @@
 
 <div id="potions">
 
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Cooked_Marshmallow" target="_blank">
-				Cooked Marshmallow
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Cooked_Marshmallow" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Cooked%20Marshmallow.png">
-						<span id="tooltip-information">
-							Provides the Well Fed buff for 10 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Campfire" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Campfire.png">
-						<span id="tooltip-information">
-							Must be crafted by holding the ingredients over a Campfire.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Marshmallow_on_a_Stick" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/items/Marshmallow%20on%20a%20Stick.png">
-						<span id="tooltip-information">
-							Marshmallow on a Stick
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Pad_Thai" target="_blank">
-				Pad Thai
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Pad_Thai" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Pad%20Thai.png">
-						<span id="tooltip-information">
-							Provides the Well Fed buff for 10 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Traveling_Merchant" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/npcs/icons/Traveling%20Merchant.png">
-						<span id="tooltip-information">
-							Can commonly be purchased from the Traveling Merchant for 20 silver.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Pho" target="_blank">
-				Pho
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Pho" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Pho.png">
-						<span id="tooltip-information">
-							Provides the Well Fed buff for 15 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Traveling_Merchant" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/npcs/icons/Traveling%20Merchant.png">
-						<span id="tooltip-information">
-							Can commonly be purchased from the Traveling Merchant for 30 silver.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Cooked_Fish" target="_blank">
-				Cooked Fish
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Cooked_Fish" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Cooked%20Fish.png">
-						<span id="tooltip-information">
-							Provides the Well Fed buff for 20 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Cooking_Pots" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Cooking%20Pot.png">
-						<span id="tooltip-information">
-							Must be crafted near a Cooking Pot.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Atlantic_Cod" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/fish/Atlantic%20Cod.png">
-						<span id="tooltip-information">
-							Atlantic Cod
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Bass" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/fish/Bass.png">
-						<span id="tooltip-information">
-							Bass
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Red_Snapper" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/fish/Red%20Snapper.png">
-						<span id="tooltip-information">
-							Red Snapper
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Salmon" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/fish/Salmon.png">
-						<span id="tooltip-information">
-							Salmon
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Trout" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/fish/Trout.png">
-						<span id="tooltip-information">
-							Trout
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Tuna" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/fish/Tuna.png">
-						<span id="tooltip-information">
-							Tuna
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
 	<div class="item">
 		<div class="title">
 			<a href="https://terraria.gamepedia.com/Cooked_Shrimp" target="_blank">
@@ -1283,66 +472,6 @@
 	
 	<div class="item">
 		<div class="title">
-			<a href="https://terraria.gamepedia.com/Christmas_Pudding" target="_blank">
-				Christmas Pudding
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Christmas_Pudding" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Christmas%20Pudding.png">
-						<span id="tooltip-information">
-							Provides the Well Fed buff for 30 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Presents" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Present.png">
-						<span id="tooltip-information">
-							Presents are only available during the Christmas event from December 15th through December 31st.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Gingerbread_Cookie" target="_blank">
-				Gingerbread Cookie
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Gingerbread_Cookie" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Gingerbread%20Cookie.png">
-						<span id="tooltip-information">
-							Provides the Well Fed buff for 30 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Presents" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Present.png">
-						<span id="tooltip-information">
-							Presents are only available during the Christmas event from December 15th through December 31st.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
 			<a href="https://terraria.gamepedia.com/Grub_Soup" target="_blank">
 				Grub Soup
 			</a>
@@ -1412,36 +541,6 @@
 	
 	<div class="item">
 		<div class="title">
-			<a href="https://terraria.gamepedia.com/Sugar_Cookie" target="_blank">
-				Sugar Cookie
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Sugar_Cookie" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Sugar%20Cookie.png">
-						<span id="tooltip-information">
-							Provides the Well Fed buff for 30 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Presents" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Present.png">
-						<span id="tooltip-information">
-							Presents are only available during the Christmas event from December 15th through December 31st.
-						</span>
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
 			<a href="https://terraria.gamepedia.com/Pumpkin_Pie" target="_blank">
 				Pumpkin Pie
 			</a>
@@ -1463,14 +562,6 @@
 						<img src="images/items/Furnace.png">
 						<span id="tooltip-information">
 							Must be crafted near a Furnace.
-						</span>
-					</div>
-				</a>
-				<a href="https://terraria.gamepedia.com/Halloween" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Jack%20'O%20Lantern.png">
-						<span id="tooltip-information">
-							Pumpkins are only available before defeating Eye of Cthulhu during the Halloween event from October 20th through October 31st.
 						</span>
 					</div>
 				</a>
@@ -1686,11 +777,11 @@
 				<div class="amount">
 					x1
 				</div>
-				<a href="https://terraria.gamepedia.com/Rotten_Chunk" target="_blank">
+				<a href="https://terraria.gamepedia.com/Vertebrae" target="_blank">
 					<div id="tooltip" class="top item-label">
-						<img src="images/items/Rotten%20Chunk.png">
+						<img src="images/items/Vertebrae.png">
 						<span id="tooltip-information">
-							Rotten Chunk
+							Vertebrae
 						</span>
 					</div>
 				</a>
@@ -2531,6 +1622,14 @@
 				</a>
 			</div>
 			<div class="extra-information">
+				<a href="https://terraria.gamepedia.com/Bottle_(crafting_station)" target="_blank">
+					<div id="tooltip" class="top large-width">
+						<img src="images/items/Alchemy%20Station.png">
+						<span id="tooltip-information">
+							Must be crafted near an alchemy station.
+						</span>
+					</div>
+				</a>
 				<a href="https://terraria.gamepedia.com/Wooden_Crate" target="_blank">
 					<div id="tooltip" class="top">
 						<img src="images/items/Wooden%20Crate.png">
@@ -2563,6 +1662,45 @@
 						</span>
 					</div>
 				</a>
+			</div>
+			<div class="components">
+				<div class="title">
+					<br/>
+					Components
+				</div>
+				<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
+					<div id="tooltip" class="top item-label">
+						<img src="images/consumables/Bottled%20Water.png">
+						<span id="tooltip-information">
+							Bottled Water
+						</span>
+					</div>
+				</a>
+				<div class="amount">
+					x1
+				</div>
+				<a href="https://terraria.gamepedia.com/Crimson_Tigerfish" target="_blank">
+					<div id="tooltip" class="top item-label">
+						<img src="images/fish/Crimson%20Tigerfish.png">
+						<span id="tooltip-information">
+							Crimson Tigerfish
+						</span>
+					</div>
+				</a>
+				<div class="amount">
+					x1
+				</div>
+				<a href="https://terraria.gamepedia.com/Daybloom" target="_blank">
+					<div id="tooltip" class="top item-label">
+						<img src="images/items/Daybloom.png">
+						<span id="tooltip-information">
+							Daybloom
+						</span>
+					</div>
+				</a>
+				<div class="amount">
+					x1
+				</div>
 			</div>
 		</div>
 	</div>
@@ -3509,6 +2647,75 @@
 	
 	<div class="item">
 		<div class="title">
+			<a href="https://terraria.gamepedia.com/Rage_Potion" target="_blank">
+				Rage Potion
+			</a>
+		</div>
+		<div class="information">
+			<div class="icon">
+				<a href="https://terraria.gamepedia.com/Rage_Potion" target="_blank">
+					<div id="tooltip" class="top">
+						<img src="images/consumables/Rage%20Potion.png">
+						<span id="tooltip-information">
+							10% increased critical strike chance for 4 minutes.
+						</span>
+					</div>
+				</a>
+			</div>
+			<div class="extra-information">
+				<a href="https://terraria.gamepedia.com/Bottle_(crafting_station)" target="_blank">
+					<div id="tooltip" class="top large-width">
+						<img src="images/items/Alchemy%20Station.png">
+						<span id="tooltip-information">
+							Must be crafted near an alchemy station.
+						</span>
+					</div>
+				</a>
+			</div>
+			<div class="components">
+				<div class="title">
+					<br/>
+					Components
+				</div>
+				<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
+					<div id="tooltip" class="top item-label">
+						<img src="images/consumables/Bottled%20Water.png">
+						<span id="tooltip-information">
+							Bottled Water
+						</span>
+					</div>
+				</a>
+				<div class="amount">
+					x1
+				</div>
+				<a href="https://terraria.gamepedia.com/Hemopiranha" target="_blank">
+					<div id="tooltip" class="top item-label">
+						<img src="images/fish/Hemopiranha.png">
+						<span id="tooltip-information">
+							Hemopiranha
+						</span>
+					</div>
+				</a>
+				<div class="amount">
+					x1
+				</div>
+				<a href="https://terraria.gamepedia.com/Deathweed" target="_blank">
+					<div id="tooltip" class="top item-label">
+						<img src="images/items/Deathweed.png">
+						<span id="tooltip-information">
+							Deathweed
+						</span>
+					</div>
+				</a>
+				<div class="amount">
+					x1
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="item">
+		<div class="title">
 			<a href="https://terraria.gamepedia.com/Regeneration_Potion" target="_blank">
 				Regeneration Potion
 			</a>
@@ -4043,97 +3250,6 @@
 	
 	<div class="item">
 		<div class="title">
-			<a href="https://terraria.gamepedia.com/Thorns_Potion" target="_blank">
-				Thorns Potion
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Thorns_Potion" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Thorns%20Potion.png">
-						<span id="tooltip-information">
-							Enemies receive 1/3 of damage dealt back to themselves for 2 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Bottle_(crafting_station)" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Alchemy%20Station.png">
-						<span id="tooltip-information">
-							Must be crafted near an alchemy station.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Bottled%20Water.png">
-						<span id="tooltip-information">
-							Bottled Water
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Stinger" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Stinger.png">
-						<span id="tooltip-information">
-							Stinger
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Worm_Tooth" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Worm%20Tooth.png">
-						<span id="tooltip-information">
-							Worm Tooth
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Cactus" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Cactus.png">
-						<span id="tooltip-information">
-							Cactus
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Deathweed" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Deathweed.png">
-						<span id="tooltip-information">
-							Deathweed
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
 			<a href="https://terraria.gamepedia.com/Titan_Potion" target="_blank">
 				Titan Potion
 			</a>
@@ -4349,75 +3465,6 @@
 			</div>
 		</div>
 	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Wrath_Potion" target="_blank">
-				Wrath Potion
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Wrath_Potion" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Wrath%20Potion.png">
-						<span id="tooltip-information">
-							10% increased damage for 4 minutes.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Bottle_(crafting_station)" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Alchemy%20Station.png">
-						<span id="tooltip-information">
-							Must be crafted near an alchemy station.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Bottled%20Water.png">
-						<span id="tooltip-information">
-							Bottled Water
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Ebonkoi" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/fish/Ebonkoi.png">
-						<span id="tooltip-information">
-							Ebonkoi
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Deathweed" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Deathweed.png">
-						<span id="tooltip-information">
-							Deathweed
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-			</div>
-		</div>
-	</div>
 
 </div>
 
@@ -4428,64 +3475,6 @@
 </div>
 
 <div id="potions">
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Flask_of_Cursed_Flames" target="_blank">
-				Flask of Cursed Flames
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Flask_of_Cursed_Flames" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Flask%20of%20Cursed%20Flames.png">
-						<span id="tooltip-information">
-							Imbues melee weapons with Cursed Flames, damaging enemies for 6 health points a second for 3-6 seconds.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Imbuing_Station" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Imbuing%20Station.png">
-						<span id="tooltip-information">
-							Must be crafted near an Imbuing Station.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Bottled%20Water.png">
-						<span id="tooltip-information">
-							Bottled Water
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Cursed_Flame" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Cursed%20Flame.png">
-						<span id="tooltip-information">
-							Cursed Flame
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x2
-				</div>
-			</div>
-		</div>
-	</div>
 	
 	<div class="item">
 		<div class="title">
@@ -4605,17 +3594,17 @@
 	
 	<div class="item">
 		<div class="title">
-			<a href="https://terraria.gamepedia.com/Flask_of_Nanites" target="_blank">
-				Flask of Nanites
+			<a href="https://terraria.gamepedia.com/Flask_of_Ichor" target="_blank">
+				Flask of Ichor
 			</a>
 		</div>
 		<div class="information">
 			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Flask_of_Nanites" target="_blank">
+				<a href="https://terraria.gamepedia.com/Flask_of_Ichor" target="_blank">
 					<div id="tooltip" class="top large-width">
-						<img src="images/consumables/Flask%20of%20Nanites.png">
+						<img src="images/consumables/Flask%20of%20Ichor.png">
 						<span id="tooltip-information">
-							Imbues melee weapons with nanites, confusing enemies (reversing their movement) for 1-3 seconds.
+							Imbues melee weapons with ichor, lowering enemies defense by 20 for 10-19 seconds.
 						</span>
 					</div>
 				</a>
@@ -4646,16 +3635,16 @@
 				<div class="amount">
 					x1
 				</div>
-				<a href="https://terraria.gamepedia.com/Nanites" target="_blank">
+				<a href="https://terraria.gamepedia.com/Ichor" target="_blank">
 					<div id="tooltip" class="top item-label">
-						<img src="images/items/Nanites.png">
+						<img src="images/items/Ichor.png">
 						<span id="tooltip-information">
-							Nanites
+							Ichor
 						</span>
 					</div>
 				</a>
 				<div class="amount">
-					x5
+					x2
 				</div>
 			</div>
 		</div>
@@ -4772,64 +3761,6 @@
 				</a>
 				<div class="amount">
 					x1
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="item">
-		<div class="title">
-			<a href="https://terraria.gamepedia.com/Flask_of_Venom" target="_blank">
-				Flask of Venom
-			</a>
-		</div>
-		<div class="information">
-			<div class="icon">
-				<a href="https://terraria.gamepedia.com/Flask_of_Venom" target="_blank">
-					<div id="tooltip" class="top">
-						<img src="images/consumables/Flask%20of%20Venom.png">
-						<span id="tooltip-information">
-							Imbues melee weapons with venom, damaging enemies for 6 health points a second for 5-10 seconds.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="extra-information">
-				<a href="https://terraria.gamepedia.com/Imbuing_Station" target="_blank">
-					<div id="tooltip" class="top large-width">
-						<img src="images/items/Imbuing%20Station.png">
-						<span id="tooltip-information">
-							Must be crafted near an Imbuing Station.
-						</span>
-					</div>
-				</a>
-			</div>
-			<div class="components">
-				<div class="title">
-					<br/>
-					Components
-				</div>
-				<a href="https://terraria.gamepedia.com/Bottled_Water" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/consumables/Bottled%20Water.png">
-						<span id="tooltip-information">
-							Bottled Water
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x1
-				</div>
-				<a href="https://terraria.gamepedia.com/Vial_of_Venom" target="_blank">
-					<div id="tooltip" class="top item-label">
-						<img src="images/items/Vial%20of%20Venom.png">
-						<span id="tooltip-information">
-							Vial of Venom
-						</span>
-					</div>
-				</a>
-				<div class="amount">
-					x5
 				</div>
 			</div>
 		</div>
