@@ -71,6 +71,7 @@ a:visited{
 
 .event{
 	color: #30f97e;
+	font-style: italic;
 }
 
 .green{
@@ -327,6 +328,18 @@ a:visited{
 	vertical-align: middle;
 }
 
+#sorry{
+	font-size: 48px;
+	font-weight: bold;
+	margin: 40px 0 80px 0;
+}
+
+#not_found{
+	font-size: 24px;
+	font-weight: bold;
+	margin: 40px 0 80px 0;
+}
+
 #copy-button{
 	background: url("../images/assistant/copy-light.png") no-repeat;
 	width: 32px;
@@ -419,66 +432,64 @@ a:visited{
 .item{
 	background-color: #d1d1d3;
 	border-radius: 8px;
+	display: block;
 	margin: 30px auto 0 auto;
-	width: 380px;
-	height: 80px;
-}
-
-.double-row{
-	height: 153px;
+	width: 400px;
+	height: 160px;
 }
 
 .title{
 	font-size: 16px;
-	display: block-inline;
 	margin-top: 5px;
+	color: #707070;
 }
 
 .amount{
-	color: #1c1c1c;
-	font-size: 12px;
 	display: inline;
+	color: #707070;
+	font-size: 12px;
 	margin-left: -5px;
+	position: relative;
 }
 
 .information{
-	float: left;
-	display: block-inline;
-	margin-top: -3px;
+	position: relative;
 }
 
 .icon{
-	float: left;
-	display: inline;
-	padding: 0 7px 0 20px;
+	display: table-cell;
+	text-align: center;
+	padding-left: 24px;
 }
 
-.divider{
-	border-left: 2px solid #9a9b9d;
-	display: inline;
-	padding: 9px 4px 10px 0;
-}
-
-.two{
-	padding: 9px 16px 10px 0;
-	margin-left: -6px;
-}
-
-.no-extra{
-	padding: 9px 16px 10px 0;
+.icon::after{
+	display: inline-block;
+	background-color: #9a9b9d;
+	width: 2px;
+	height: 32px;
+	margin-bottom: -13px;
+	margin-left: 8px;
+	content: '';
 }
 
 .extra-information{
-	display: inline;
-	padding: 0 9px 0 12px;
+	display: table-cell;
+	padding-left: 20px;
+	vertical-align: middle;
 }
 
 .components{
-	display: inline;
+	display: block;
+	border-top: 2px #9a9b9d solid;
+	width: 96%;
+	margin-left: 2%;
+	line-height: 8px;
+	top: 59px;
+	position: absolute;
 }
 
-.components a{
-	padding-left: 17px;
+.components #tooltip{
+	line-height: initial;
 }
 
 .components .amount{
@@ -488,6 +499,31 @@ a:visited{
 }
 
 #potions .information a:hover{
+	text-decoration: none;
+}
+
+#boss-information{
+	display: flex;
+	padding-bottom: 100px;
+	margin-top: 40px;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+#boss-information a{
+	padding: 4px;
+}
+
+.boss-card{
+	background-color: #d1d1d3;
+	border-radius: 8px;
+	display: block;
+	margin: 30px auto 0 auto;
+	width: 90%;
+	height: 160px;
+}
+
+#boss-information .information a:hover{
 	text-decoration: none;
 }
 
@@ -561,6 +597,7 @@ a:visited{
 }
 
 .top #tooltip-information{
+	display: table-cell;
 	width: 180px;
 	top: unset;
 	right: unset;
@@ -587,15 +624,33 @@ a:visited{
 }
 
 .item-label #tooltip-information{
-	width: 60px;
+	width: 80px;
 	top: unset;
 	right: unset;
 	bottom: 100%;
 	left: 50%;
 	margin-bottom: -7px;
-	margin-left: -43px;
-	text-align: center;
-	transform: unset;
+	margin-left: -53px;
+}
+
+.small-width #tooltip-information{
+	width: 120px;
+	top: unset;
+	right: unset;
+	bottom: 100%;
+	left: 50%;
+	margin-bottom: -7px;
+	margin-left: -73px;
+}
+
+.large-width #tooltip-information{
+	width: 240px;
+	top: unset;
+	right: unset;
+	bottom: 100%;
+	left: 50%;
+	margin-bottom: -7px;
+	margin-left: -133px;
 }
 
 
@@ -626,8 +681,8 @@ a:visited{
 }
 
 #modal-content{
-	background-color: #f9f9fa;
-	border: 1px solid #888888;
+	background-color: #2a2a2e;
+	border: 1px solid #f9f9fa;
 	width: 80%;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	position: relative;
